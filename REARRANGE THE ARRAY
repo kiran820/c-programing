@@ -1,0 +1,16 @@
+#INCLUDE<STDIO.H>
+Void main();
+{
+  int n, a[i];
+  scanf("%d%d",&n,&a[i]);
+  for(i=0; i<n; i++)
+  {
+    if(a[i]%2==0)
+  } 
+  printf("it is even");
+  else
+  {
+    printf("it is odd");
+    }
+  }
+      
